@@ -51,6 +51,8 @@ The seat swapping and showing page
 *Explain what the video demonstrates*
 
 
+The site link :- https://roshnyjohnson.github.io/SEAT_WAR/
+
 
 ## Team Contributions
 •	[Name 1]: Gauri Lakshmi

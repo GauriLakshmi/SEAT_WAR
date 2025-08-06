@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### Team Name: Sign Out
+### Team Name: SignOut
 
 
 ### Team Members
@@ -47,9 +47,7 @@ The seat swapping and showing page
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
+https://github.com/user-attachments/assets/1e8e3765-b735-435d-9159-48c444f97971
 
 The site link :- https://roshnyjohnson.github.io/SEAT_WAR/
 
